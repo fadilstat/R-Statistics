@@ -23,9 +23,9 @@ Info:
 
 **Statistik Uji:**
 
-[ ] H0 : Data mengikuti distribusi normal
-[ ] H1 : Data tidak mengikuti distribusi normal
+> H0 : Data mengikuti distribusi normal
+> H1 : Data tidak mengikuti distribusi normal
 
 **Kriteria Penolakan**
 
-Tolak H0 jika p-value < 0.05
+Tolak H0 jika `p-value` < 0.05
