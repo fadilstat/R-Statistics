@@ -21,7 +21,7 @@ Output:
 
 Info:
 
-**Statistik Uji:**
+**Hipotesis:**
 
 > H0 : Data mengikuti distribusi normal
 
