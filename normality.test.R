@@ -31,7 +31,7 @@ setMethod("initialize", "NormalTest", function(.Object, data, alpha, method, inf
     ket
   )
   
-  colnames(hasil) <- c('Motode', 'Statistik','p-value','Keptusan')
+  colnames(hasil) <- c('Motode', 'Statistik','p-value','Keputusan')
   
   if(info){
     message('Hipotesis:')

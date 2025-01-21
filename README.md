@@ -1,4 +1,5 @@
 # The normality test for a single variable using R
+
 Function Statistic using R
 
 ```R
@@ -14,7 +15,7 @@ normal.text(x, info = F)
 Output:
 
 ```R
-#               Motode  Statistik   p-value  Keptusan
+#               Motode  Statistik   p-value  Keputusan
 # D Kolmogorov-Smirnov 0.06317876 0.8196102 Terima H0
 # W       Shapiro-Wilk 0.98436438 0.2855246 Terima H0
 ```
